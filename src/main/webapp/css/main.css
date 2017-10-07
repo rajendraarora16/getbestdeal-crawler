@@ -1,0 +1,26 @@
+body{
+	background: none repeat scroll 0% 0% rgb(231, 233, 236) !important;	
+}
+
+html, body{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container {
+  float: right;
+  padding: 15px 45px;
+}
+
+.container ul {
+  display:table-row;
+}
+.container ul li
+{
+  display: table-cell;
+  list-style-type: none;
+  margin: 10px;
+  vertical-align: middle;
+  padding-left: 30px;
+}
+
